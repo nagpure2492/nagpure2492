@@ -2,7 +2,7 @@
 - 👀 I’m interested in building organic websites
 - 🌱 I’m currently learning mern stack development.
 - 💞️ I’m looking to collaborate on linkedin
-- 📫 How to reach me through githb
+- 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
